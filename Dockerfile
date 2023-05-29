@@ -1,5 +1,5 @@
 # Base image
-FROM python:3.10-slim
+FROM python:3.10-windowsservercore-1809
 
 # Set the working directory
 WORKDIR /app
